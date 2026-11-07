@@ -1,5 +1,5 @@
 ﻿param(
-	[string]$ScriptPath = (Join-Path $PSScriptRoot 'script.txt'),
+	[string]$ScriptPath = (Join-Path $PSScriptRoot 'script.csv'),
 	[ValidateRange(0, 86400)]
 	[double]$DelaySeconds = 1
 )

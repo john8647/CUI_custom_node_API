@@ -1,0 +1,3 @@
+action,character,text,delay_before_seconds
+say,me,yes want me to pick you up,1
+say,Alana,"yes I want that, hold me pick me up!",10

@@ -1,6 +1,0 @@
-action,character,text,delay_before_seconds
-say,me,Hello Jimmy test,8
-say,Jimmy,Hello John,6
-say,user,Hello John,6
-command,Jimmy,audio ComfyUI_temp_udaxi_00011_,3
-command,user,audio ComfyUI_temp_udaxi_00010_,3
